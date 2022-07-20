@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Foodie/app/src/main/res/drawable/btnsetting.xml" value="0.1735" />
+        <entry key="..\:/Foodie/app/src/main/res/drawable/cat_background.xml" value="0.1735" />
+        <entry key="..\:/Foodie/app/src/main/res/drawable/header.xml" value="0.1735" />
+        <entry key="..\:/Foodie/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2525" />
+        <entry key="..\:/Foodie/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1735" />
+        <entry key="..\:/Foodie/app/src/main/res/drawable/orange_light_background.xml" value="0.1745" />
+        <entry key="..\:/Foodie/app/src/main/res/drawable/search.xml" value="0.2525" />
+        <entry key="..\:/Foodie/app/src/main/res/drawable/search_backgropud.xml" value="0.1745" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_cart.xml" value="0.11018518518518519" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_cheese_burger.xml" value="0.264" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_favourit.xml" value="0.11018518518518519" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_fruit_pizza.xml" value="0.2" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_main.xml" value="0.10400000000000001" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_pepperonipizacard.xml" value="0.11018518518518519" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_sandvich.xml" value="0.2" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_vegetable_burger.xml" value="0.264" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/activity_vegetablepizza.xml" value="0.264" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/favurrate.xml" value="0.11018518518518519" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/nav.xml" value="0.264" />
+        <entry key="..\:/Foodie/app/src/main/res/layout/pepronipizza.xml" value="0.264" />
+        <entry key="..\:/Foodie/app/src/main/res/menu/menu.xml" value="0.264" />
+        <entry key="..\:/Foodie/app/src/main/res/mipmap-anydpi-v26/food_order.xml" value="0.1195" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
